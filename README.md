@@ -9,7 +9,7 @@ https://sensensen404.notion.site
 
 [YApi 远程命令执行漏洞2022：从补丁倒推利用方式的一点思路](https://www.notion.so/YApi-2022-4636c5ce22b941a0951c92f6c0128bfa?pvs=21)
 
-[Java 黑帽子：如何写一个Spring4Shell（CVE-2022-22965）的POC脚本](https://www.notion.so/Java-Spring4Shell-CVE-2022-22965-POC-ffd8c5db699f4f50be6aa459ca7c0a82?pvs=21)
+[Java 黑帽子：如何写一个Spring4Shell CVE-2022-22965 的POC脚本](https://www.notion.so/Java-Spring4Shell-CVE-2022-22965-POC-ffd8c5db699f4f50be6aa459ca7c0a82?pvs=21)
 
 [Java反序列化漏洞 - 1.从URL类的一个bug 说起](https://www.notion.so/Java-1-URL-bug-566dba65461a419a8d2b951b7d7d1ce9?pvs=21)
 
