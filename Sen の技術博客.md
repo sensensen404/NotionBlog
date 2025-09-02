@@ -28,4 +28,4 @@ https://sensensen404.notion.site
 
 [Websocket协议原理与实现（一）](https://www.notion.so/Websocket-0c68c02e5b3e462297890f53b83ad173?pvs=21)
 
-[Android学习——LitePal源码分析](https://www.cnblogs.com/Azzssss/p/4147704.html)](https://www.notion.so/Android-LitePal-207ef2bbf8d44387b138c0bf6bc52f1f?pvs=21)
+[Android学习——LitePal源码分析](https://www.cnblogs.com/Azzssss/p/4147704.html)(https://www.notion.so/Android-LitePal-207ef2bbf8d44387b138c0bf6bc52f1f?pvs=21)
